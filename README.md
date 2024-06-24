@@ -27,16 +27,18 @@ You can use as many (or as few) tools, libraries, and frameworks as you'd like. 
 
 <h2> Features </h2>
 
-<ol>
+<ul>
     <li><strong>Responsive Design:</strong> The blog card component is fully responsive, ensuring it displays correctly on different screen sizes, from mobile devices to desktop screens.</li>
     <li><strong>Hover Effects:</strong> Each element in the blog card has a hover state to enhance interactivity and user experience.</li>
-    <li><strong>Content Display:</strong> 
-        <li><strong>Category Label:</strong> The category label is styled to stand out, using uppercase text and a background color.</li>
-        <li><strong>Blog Title:</strong> The blog title is prominently displayed to attract the reader's attention.</li>
-        <li><strong>Blog Description:</strong> A brief description provides a sneak peek into the blog post content.</li>
-        <li><strong>User Details:</strong> Displays the user's profile picture, name, and the time since the post was published, stacked vertically for clarity.</li>
-    </li>
-</ol>
+           <li><strong>Content Display:</strong>
+            <ul>
+                <li><strong>Category Label:</strong> The category label is styled to stand out, using uppercase text and a background color.</li>
+                <li><strong>Blog Title:</strong> The blog title is prominently displayed to attract the reader's attention.</li>
+                <li><strong>Blog Description:</strong> A brief description provides a sneak peek into the blog post content.</li>
+                <li><strong>User Details:</strong> Displays the user's profile picture, name, and the time since the post was published, stacked vertically for clarity.</li>
+            </ul>
+        </li>
+</ul>
 
 <h2>Technologies Used</h2>
 
